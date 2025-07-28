@@ -18,7 +18,7 @@ npm run build
 
 ## Example Image
 
-![Example Image](Screenshot 1.png)
+![Example Image](Screenshot.png)
 
 ## Usage
 The org graph is pre-loaded with a cut down version of the Upload me csv.
